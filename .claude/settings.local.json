@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth *)",
+      "Bash(git --version)",
+      "Bash(git -C \"/Users/robin/Documents/VS Code/Rutin Webbplats\" status)",
+      "Bash(brew --version)"
+    ]
+  }
+}
